@@ -1,3 +1,4 @@
+//GITHUB COMMENT FOR SEJIN
 /*******************************************************
   NameMap.cpp - Object to store a map of all names and 
   the line numbers in the the file where the names 
@@ -9,6 +10,8 @@
 //This is Ryan's second comment for the github lab. This is still a great class!
 /*GITHUB Comment 1
 WOW! What a great class!*/
+// I agree
+// This is Michaela making a second comment on this file
 
 /*
 Creates a character name map.
