@@ -10,6 +10,7 @@
 /*GITHUB Comment
 WOW! What a great class!*/
 // I agree
+// This is Michaela making a second comment on this file
 
 /*
 Creates a character name map.
