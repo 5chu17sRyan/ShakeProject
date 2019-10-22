@@ -6,7 +6,8 @@
  ******************************************************/
 #include "CharacterNameMap.h"
 
-/*GITHUB Comment
+//This is Ryan's second comment for the github lab. This is still a great class!
+/*GITHUB Comment 1
 WOW! What a great class!*/
 
 /*
