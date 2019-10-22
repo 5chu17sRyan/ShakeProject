@@ -6,6 +6,8 @@
  ******************************************************/
 #include "CharacterNameMap.h"
 
+/*GITHUB Comment
+WOW! What a great class!*/
 
 /*
 Creates a character name map.
