@@ -9,6 +9,7 @@
 
 /*GITHUB Comment
 WOW! What a great class!*/
+// I agree
 
 /*
 Creates a character name map.
