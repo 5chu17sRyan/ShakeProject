@@ -1,3 +1,4 @@
+//GITHUB COMMENT FOR SEJIN
 /*******************************************************
   NameMap.cpp - Object to store a map of all names and 
   the line numbers in the the file where the names 
